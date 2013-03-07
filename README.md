@@ -3,7 +3,7 @@ MLCruxActivity
 
 A UIActivity subclass for opening URLs in Crux Web Browser.
 
-![MLCruxActivity](http://cl.ly/image/2C2W3G1j202p)
+![MLCruxActivity](screenshot.PNG)
 
 LICENSE
 ==============
